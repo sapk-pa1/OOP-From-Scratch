@@ -1,3 +1,4 @@
+.gitignore
 2. Test.py
 contents.txt
 folders.py
@@ -8,6 +9,7 @@ update_contents.py
 update_contents.spec
 update_gitignore.py
 V0.441.txt
+.git
 .ipynb_checkpoints
 build
 dist
